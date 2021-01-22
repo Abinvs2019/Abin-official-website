@@ -1,0 +1,151 @@
+.text-main{
+    float: 50%;
+    float: left;
+    margin-top: 90px;
+    margin-left: 90px;
+
+}
+.bghead{
+    background-color: #dbe9f4;
+}
+h1{
+    font-weight: bolder;
+    color: darkcyan;
+}
+.bgheadw{
+    color: darkcyan;
+}
+h2{
+    color: darkcyan;
+    font-weight:bold ;
+}
+p5{
+    color:darkcyan;
+}
+h3{
+
+margin-left: 50px;
+
+}
+.about{
+    color: darkcyan;
+    background-color: white;
+    float: 50%;
+    float: left;
+    margin-left: 50px;
+    margin-top: 350px;
+    padding: 100px 100px;
+
+}
+p{
+    color:darkcyan;
+}
+.slide-img{
+    margin-top: 50px;
+    margin-right: 70px;
+    float:right;
+    float: 50%;
+    width: 40%;
+    height: 100;
+}
+.meimg{
+    float: right;
+    float: 50%;
+    margin-top: 113px;
+    margin-right: 100;
+    padding: 60px 20px;
+}
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 3px;
+  } 
+  .details{
+      background-color: white;
+      font: weight 2;;
+      color:darkcyan;
+      margin-top: 650px;
+      margin-left: 150px;
+      padding: 10px 100px;
+  }
+  head,
+body {
+    background-color: lightcyan
+}
+
+.card {
+    cursor: pointer
+}
+
+.hd {
+    font-size: 25px;
+    font-weight: 550
+}
+
+.card.hover,
+.card:hover {
+    box-shadow: 0 20px 40px rgba(0, 0, 0, .2)
+}
+
+.img {
+    margin-bottom: 35px;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222)
+}
+
+.card-title {
+    font-weight: 600
+}
+
+button.focus,
+button:focus {
+    outline: 0;
+    box-shadow: none !important
+}
+
+.ft {
+    margin-top: 25px
+}
+
+.chk {
+    margin-bottom: 5px
+}
+
+.rck {
+    margin-top: 20px;
+    padding-bottom: 15px
+}
+ .cont-info{
+     margin-left: 590px;
+     font-weight: bolder;
+
+ }
+ .footer-txt1{
+     float: left;
+     margin-top: -45px;
+     margin-left: 550px;
+ }
+ .btn-cnt{
+     float: left;
+     margin-top: -45p;
+     margin-left: 60
+    0px;
+ }
+ .footr{
+     margin-top: 100px;
+     float: 100%;
+     
+ }
+ .btn-txt{
+     margin-top: 80px;
+     margin-left: 595px;
+
+ }
+ .footrtxt{
+     
+     margin-left: 570px;
+ }
