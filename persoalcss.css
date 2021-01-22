@@ -49,11 +49,10 @@ p{
     height: 100;
 }
 .meimg{
+    margin-top: 55px;
     float: right;
     float: 50%;
-    margin-top: 113px;
-    margin-right: 100;
-    padding: 60px 20px;
+    background-color: aliceblue;
 }
 hr { 
     display: block;
@@ -142,10 +141,10 @@ button:focus {
  }
  .btn-txt{
      margin-top: 80px;
-     margin-left: 595px;
+     margin-left: 60px;
 
  }
  .footrtxt{
      
-     margin-left: 570px;
+     margin-left: 50px;
  }
