@@ -9,10 +9,15 @@
     background-color: #dbe9f4;
 }
 h1{
+    float: 50%;
+    
     font-weight: bolder;
     color: darkcyan;
 }
 .bgheadw{
+    color: darkcyan;
+}
+h5{
     color: darkcyan;
 }
 h2{
@@ -30,11 +35,10 @@ margin-left: 50px;
 .about{
     color: darkcyan;
     background-color: white;
-    float: 50%;
     float: left;
-    margin-left: 50px;
-    margin-top: 350px;
-    padding: 100px 100px;
+    margin-left: 90px;
+    padding-top: 100px;
+    padding-bottom: 100px;
 
 }
 p{
@@ -49,10 +53,10 @@ p{
     height: 100;
 }
 .meimg{
-    margin-top: 55px;
-    float: right;
-    float: 50%;
-    background-color: aliceblue;
+    background-color: white;
+    float: left 50px;
+    margin-top: 520px;
+
 }
 hr { 
     display: block;
@@ -63,15 +67,8 @@ hr {
     border-style: inset;
     border-width: 3px;
   } 
-  .details{
-      background-color: white;
-      font: weight 2;;
-      color:darkcyan;
-      margin-top: 650px;
-      margin-left: 150px;
-      padding: 10px 100px;
-  }
-  head,
+
+
 body {
     background-color: lightcyan
 }
@@ -147,4 +144,12 @@ button:focus {
  .footrtxt{
      
      margin-left: 50px;
+ }
+ .iconclr{
+     background-color: darkcyan;
+ }
+ .aboutme{
+     float: right;
+    margin-top: 100px;
+    margin-right: 300px;
  }
